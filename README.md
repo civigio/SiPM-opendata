@@ -1,8 +1,13 @@
 # SiPM-opendata
 Esperimentazioni di fisica nucleare e subnucleare
+
 Corso di laurea in Fisica
+
 Università degli studi di Milano-Bicocca
+
 Anno accademico 2024-2025
+
+
 
 SiPM: caratterizzazione ed applicazioni nella rivelazione di particelle con scintillatore
 
