@@ -1,0 +1,17 @@
+Effective Z scintillators
+
+LYSO:
+66 https://www.omegapiezo.com/crystal-scintillators/
+66 https://www.samaterials.com/scintillation-crystals/2640-lyso-ce-scintillation-crystal.html
+65 https://www.ge.infn.it/~batta/jlab/05341424.pdf
+66 https://www.sinocera.com/products/single-crystals/lyso-crystal/
+66 http://www.tianlephotonics.com/product-show/1
+
+BGO:
+74 https://www.advatech-uk.co.uk/bgo.html
+74 https://pmc.ncbi.nlm.nih.gov/articles/PMC8665694/
+74 https://www.kinheng.com/sale-15116375-bgo-scintillator-crystal-effective-atomic-number-83.html
+
+
+CSI:
+54 http://www.mt-berlin.com/charts/chart_06.htm
